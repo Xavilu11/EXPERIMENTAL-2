@@ -1,0 +1,15 @@
+D:\ProyectosCsharp\EXPERIMENTAL 2\AtraccionParqueCompleta\bin\Debug\net9.0\AtraccionParqueCompleta.exe
+D:\ProyectosCsharp\EXPERIMENTAL 2\AtraccionParqueCompleta\bin\Debug\net9.0\AtraccionParqueCompleta.deps.json
+D:\ProyectosCsharp\EXPERIMENTAL 2\AtraccionParqueCompleta\bin\Debug\net9.0\AtraccionParqueCompleta.runtimeconfig.json
+D:\ProyectosCsharp\EXPERIMENTAL 2\AtraccionParqueCompleta\bin\Debug\net9.0\AtraccionParqueCompleta.dll
+D:\ProyectosCsharp\EXPERIMENTAL 2\AtraccionParqueCompleta\bin\Debug\net9.0\AtraccionParqueCompleta.pdb
+D:\ProyectosCsharp\EXPERIMENTAL 2\AtraccionParqueCompleta\obj\Debug\net9.0\AtraccionParqueCompleta.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosCsharp\EXPERIMENTAL 2\AtraccionParqueCompleta\obj\Debug\net9.0\AtraccionParqueCompleta.AssemblyInfoInputs.cache
+D:\ProyectosCsharp\EXPERIMENTAL 2\AtraccionParqueCompleta\obj\Debug\net9.0\AtraccionParqueCompleta.AssemblyInfo.cs
+D:\ProyectosCsharp\EXPERIMENTAL 2\AtraccionParqueCompleta\obj\Debug\net9.0\AtraccionParqueCompleta.csproj.CoreCompileInputs.cache
+D:\ProyectosCsharp\EXPERIMENTAL 2\AtraccionParqueCompleta\obj\Debug\net9.0\AtraccionParqueCompleta.sourcelink.json
+D:\ProyectosCsharp\EXPERIMENTAL 2\AtraccionParqueCompleta\obj\Debug\net9.0\AtraccionParqueCompleta.dll
+D:\ProyectosCsharp\EXPERIMENTAL 2\AtraccionParqueCompleta\obj\Debug\net9.0\refint\AtraccionParqueCompleta.dll
+D:\ProyectosCsharp\EXPERIMENTAL 2\AtraccionParqueCompleta\obj\Debug\net9.0\AtraccionParqueCompleta.pdb
+D:\ProyectosCsharp\EXPERIMENTAL 2\AtraccionParqueCompleta\obj\Debug\net9.0\AtraccionParqueCompleta.genruntimeconfig.cache
+D:\ProyectosCsharp\EXPERIMENTAL 2\AtraccionParqueCompleta\obj\Debug\net9.0\ref\AtraccionParqueCompleta.dll
