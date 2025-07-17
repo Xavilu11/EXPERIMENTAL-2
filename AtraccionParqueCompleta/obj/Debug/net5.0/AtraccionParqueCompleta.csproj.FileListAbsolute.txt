@@ -1,5 +1,0 @@
-D:\ProyectosCsharp\EXPERIMENTAL 2\AtraccionParqueCompleta\obj\Debug\net5.0\AtraccionParqueCompleta.GeneratedMSBuildEditorConfig.editorconfig
-D:\ProyectosCsharp\EXPERIMENTAL 2\AtraccionParqueCompleta\obj\Debug\net5.0\AtraccionParqueCompleta.AssemblyInfoInputs.cache
-D:\ProyectosCsharp\EXPERIMENTAL 2\AtraccionParqueCompleta\obj\Debug\net5.0\AtraccionParqueCompleta.AssemblyInfo.cs
-D:\ProyectosCsharp\EXPERIMENTAL 2\AtraccionParqueCompleta\obj\Debug\net5.0\AtraccionParqueCompleta.csproj.CoreCompileInputs.cache
-D:\ProyectosCsharp\EXPERIMENTAL 2\AtraccionParqueCompleta\obj\Debug\net5.0\AtraccionParqueCompleta.sourcelink.json

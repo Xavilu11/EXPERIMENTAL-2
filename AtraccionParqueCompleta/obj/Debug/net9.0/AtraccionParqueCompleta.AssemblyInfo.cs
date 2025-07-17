@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AtraccionParqueCompleta")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c725289214e0e7874f5bad6586a01bdb9431aea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7f975e4b7439cc12de0402e8bea7c8071535077")]
 [assembly: System.Reflection.AssemblyProductAttribute("AtraccionParqueCompleta")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AtraccionParqueCompleta")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
