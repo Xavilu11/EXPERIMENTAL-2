@@ -1,0 +1,14 @@
+D:\ProyectosCsharp\EXPERIMENTAL 2\Experimental2\bin\Debug\net9.0\Experimental2.exe
+D:\ProyectosCsharp\EXPERIMENTAL 2\Experimental2\bin\Debug\net9.0\Experimental2.deps.json
+D:\ProyectosCsharp\EXPERIMENTAL 2\Experimental2\bin\Debug\net9.0\Experimental2.runtimeconfig.json
+D:\ProyectosCsharp\EXPERIMENTAL 2\Experimental2\bin\Debug\net9.0\Experimental2.dll
+D:\ProyectosCsharp\EXPERIMENTAL 2\Experimental2\bin\Debug\net9.0\Experimental2.pdb
+D:\ProyectosCsharp\EXPERIMENTAL 2\Experimental2\obj\Debug\net9.0\Experimental2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosCsharp\EXPERIMENTAL 2\Experimental2\obj\Debug\net9.0\Experimental2.AssemblyInfoInputs.cache
+D:\ProyectosCsharp\EXPERIMENTAL 2\Experimental2\obj\Debug\net9.0\Experimental2.AssemblyInfo.cs
+D:\ProyectosCsharp\EXPERIMENTAL 2\Experimental2\obj\Debug\net9.0\Experimental2.csproj.CoreCompileInputs.cache
+D:\ProyectosCsharp\EXPERIMENTAL 2\Experimental2\obj\Debug\net9.0\Experimental2.dll
+D:\ProyectosCsharp\EXPERIMENTAL 2\Experimental2\obj\Debug\net9.0\refint\Experimental2.dll
+D:\ProyectosCsharp\EXPERIMENTAL 2\Experimental2\obj\Debug\net9.0\Experimental2.pdb
+D:\ProyectosCsharp\EXPERIMENTAL 2\Experimental2\obj\Debug\net9.0\Experimental2.genruntimeconfig.cache
+D:\ProyectosCsharp\EXPERIMENTAL 2\Experimental2\obj\Debug\net9.0\ref\Experimental2.dll

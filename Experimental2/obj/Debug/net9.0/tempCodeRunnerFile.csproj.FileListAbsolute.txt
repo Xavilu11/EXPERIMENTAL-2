@@ -1,0 +1,14 @@
+d:\ProyectosCsharp\EXPERIMENTAL 2\Experimental2\bin\Debug\net9.0\tempCodeRunnerFile.exe
+d:\ProyectosCsharp\EXPERIMENTAL 2\Experimental2\bin\Debug\net9.0\tempCodeRunnerFile.deps.json
+d:\ProyectosCsharp\EXPERIMENTAL 2\Experimental2\bin\Debug\net9.0\tempCodeRunnerFile.runtimeconfig.json
+d:\ProyectosCsharp\EXPERIMENTAL 2\Experimental2\bin\Debug\net9.0\tempCodeRunnerFile.dll
+d:\ProyectosCsharp\EXPERIMENTAL 2\Experimental2\bin\Debug\net9.0\tempCodeRunnerFile.pdb
+d:\ProyectosCsharp\EXPERIMENTAL 2\Experimental2\obj\Debug\net9.0\tempCodeRunnerFile.GeneratedMSBuildEditorConfig.editorconfig
+d:\ProyectosCsharp\EXPERIMENTAL 2\Experimental2\obj\Debug\net9.0\tempCodeRunnerFile.AssemblyInfoInputs.cache
+d:\ProyectosCsharp\EXPERIMENTAL 2\Experimental2\obj\Debug\net9.0\tempCodeRunnerFile.AssemblyInfo.cs
+d:\ProyectosCsharp\EXPERIMENTAL 2\Experimental2\obj\Debug\net9.0\tempCodeRunnerFile.csproj.CoreCompileInputs.cache
+d:\ProyectosCsharp\EXPERIMENTAL 2\Experimental2\obj\Debug\net9.0\tempCodeRunnerFile.dll
+d:\ProyectosCsharp\EXPERIMENTAL 2\Experimental2\obj\Debug\net9.0\refint\tempCodeRunnerFile.dll
+d:\ProyectosCsharp\EXPERIMENTAL 2\Experimental2\obj\Debug\net9.0\tempCodeRunnerFile.pdb
+d:\ProyectosCsharp\EXPERIMENTAL 2\Experimental2\obj\Debug\net9.0\tempCodeRunnerFile.genruntimeconfig.cache
+d:\ProyectosCsharp\EXPERIMENTAL 2\Experimental2\obj\Debug\net9.0\ref\tempCodeRunnerFile.dll
