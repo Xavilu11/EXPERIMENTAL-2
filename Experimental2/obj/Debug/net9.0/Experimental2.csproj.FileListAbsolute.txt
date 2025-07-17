@@ -12,3 +12,4 @@ D:\ProyectosCsharp\EXPERIMENTAL 2\Experimental2\obj\Debug\net9.0\refint\Experime
 D:\ProyectosCsharp\EXPERIMENTAL 2\Experimental2\obj\Debug\net9.0\Experimental2.pdb
 D:\ProyectosCsharp\EXPERIMENTAL 2\Experimental2\obj\Debug\net9.0\Experimental2.genruntimeconfig.cache
 D:\ProyectosCsharp\EXPERIMENTAL 2\Experimental2\obj\Debug\net9.0\ref\Experimental2.dll
+d:\ProyectosCsharp\EXPERIMENTAL 2\Experimental2\obj\Debug\net9.0\Experimental2.sourcelink.json
