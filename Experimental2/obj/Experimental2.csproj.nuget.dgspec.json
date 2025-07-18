@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\ProyectosCsharp\\EXPERIMENTAL 2\\Experimental2\\Experimental2.csproj": {}
+    "D:\\ProyectosCsharp\\EXPERIMENTAL 2\\Experimental2\\Experimental2.csproj": {}
   },
   "projects": {
-    "d:\\ProyectosCsharp\\EXPERIMENTAL 2\\Experimental2\\Experimental2.csproj": {
+    "D:\\ProyectosCsharp\\EXPERIMENTAL 2\\Experimental2\\Experimental2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\ProyectosCsharp\\EXPERIMENTAL 2\\Experimental2\\Experimental2.csproj",
+        "projectUniqueName": "D:\\ProyectosCsharp\\EXPERIMENTAL 2\\Experimental2\\Experimental2.csproj",
         "projectName": "Experimental2",
-        "projectPath": "d:\\ProyectosCsharp\\EXPERIMENTAL 2\\Experimental2\\Experimental2.csproj",
+        "projectPath": "D:\\ProyectosCsharp\\EXPERIMENTAL 2\\Experimental2\\Experimental2.csproj",
         "packagesPath": "C:\\Users\\xavie\\.nuget\\packages\\",
-        "outputPath": "d:\\ProyectosCsharp\\EXPERIMENTAL 2\\Experimental2\\obj\\",
+        "outputPath": "D:\\ProyectosCsharp\\EXPERIMENTAL 2\\Experimental2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xavie\\AppData\\Roaming\\NuGet\\NuGet.Config"
